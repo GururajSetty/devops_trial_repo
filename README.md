@@ -1,2 +1,0 @@
-# devops_trial_repo
-devops_trial_nth_repo
